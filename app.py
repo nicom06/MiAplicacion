@@ -1,10 +1,11 @@
 import streamlit as st
+import numpy as np
 import libreria_funciones as lf
 
 st.title("Mi primera app")
 
 st.sidebar.title("Datos")
-st.image("logo.png",width=100)
+st.image("logodmc.png",width=100)
 st.sidebar.image("logodmc.png")
 st.title("clase 5 funciones")
 
